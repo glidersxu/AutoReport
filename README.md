@@ -162,5 +162,5 @@ pyinstaller -F ***.py
 
 
 
-[完整代码](https://www.wolai.com/bn45fLrH5MB6EPi9HuDrr7)
+[完整代码](https://github.com/glidersxu/AutoReport/blob/main/%E5%B0%8F%E5%AD%A6%E7%94%9F%E7%9D%A1%E7%9C%A0%E6%83%85%E5%86%B5%E8%87%AA%E5%8A%A8%E6%89%93%E5%8D%A1_v0.4.py)
 
